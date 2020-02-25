@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PBRShader/v16
+/Temp
+/Packages
+/Library
+/obj/Debug
+/Logs
+/UserSettings
+/ProjectSettings
